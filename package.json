@@ -1,0 +1,14 @@
+{
+  "name": "vyapaar",
+  "version": "1.0.0",
+  "description": "Authentication for Vyapaar users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saloni Jain",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.2.4"
+  }
+}
